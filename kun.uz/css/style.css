@@ -1,0 +1,1372 @@
+
+body {
+    width: 100%;
+    font-family: serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f1e1e1;
+    overflow-x: hidden;  /* Hide horizontal overflow */
+}
+
+.header {
+    width: 100%; /* Ensure it fits within the body */
+}
+
+.navbar {
+    width: 100%; /* Adjust width accordingly */
+}
+
+
+
+.header {
+    background-color: #fffefe;
+    color: #333;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    font-weight: bold;
+    font-size: 24px;
+    margin-right: 20px;
+}
+
+
+.menu {
+    width: 100%;
+    display: flex;
+    gap: 60px;
+    list-style: none;
+    height: 35px;
+}
+
+
+/* COL */
+.col-11 {
+    margin: 0px 100px;
+}
+
+
+.oo :hover {
+    cursor: pointer;
+}
+
+ a  {
+    text-decoration: none;
+}
+
+header img {
+    width: 95px;
+    height: 45px;
+}
+
+.navbar {
+    margin-top: -50px;
+    margin-left: 180px;
+}
+
+.navbar a {
+    color: #333;
+}
+
+.navbar :hover {
+    cursor: pointer;
+}
+
+.ikonka i {
+    margin-left: 20px;
+    margin-left: 30px;
+}
+
+.ikonka {
+    margin-left: 10px;
+    margin-top: -15px;
+    width: 100px;
+    margin-left: 15px;
+}
+
+.ikonka :hover {
+    cursor: progress;
+}
+
+.oh {
+    margin-left: 10px;
+    margin-top: -15px;
+}
+
+.oh :hover {
+    cursor: pointer;
+}   
+
+.header {
+    width: 96.5%;
+}
+
+.header :hover {
+    color: blue;
+}
+
+.cj ul li {
+    display: inline-block;
+}
+
+.cj li {
+    padding: 20px;
+    margin-left: 100px;
+    height: 1px;
+}
+
+.cj {
+    width: 91.5%;
+    margin-top: 45px;
+    margin-left: 90px;
+}
+
+.no ul li a {
+    margin-top: 20px;
+}
+
+.no {
+    height: 35px;
+    margin-left: -90px;
+    margin-top: -65px;
+    border-bottom: 1px solid rgba(224, 46, 46, 0.1);
+    border-radius: 1px;
+}
+
+.no li a {
+    margin-top: -10px;
+    color: #333;
+}
+
+.no :hover  {
+    color: blue;
+    transform: translateX(10px);   
+}
+
+footer ul li {
+    margin-top: -30px;
+}
+
+.no {
+    border: solid 1px #bbb;
+    background-color: #dedbdb;
+}
+
+.no li  {
+    margin-top: -10px;
+}
+
+.h1 {
+    width: 450px;
+    font-size: 27px;
+}
+
+.h1 a {
+    color: #333;
+}
+
+.h1 :hover {
+    color: blue;
+}
+
+.p1 {
+    width: 30%;
+
+    
+}
+
+.p1 a {
+    color: #333;
+}
+
+.p1 :hover {
+    color: #333;
+}
+
+.img  img {
+}
+
+.hdiv {
+    width: 30%;
+    font-size: 25px;
+    margin-left: 1100px;
+    margin-top: -00px;
+}
+.div-1{
+    height: 500px;
+    clear: both;
+    margin-left: 100px;;
+    
+}
+.div-2{
+    width: 550px;
+    height: 500px;
+    margin-left: 33%;
+    position: absolute;
+    top: 350px;
+    right: 490px;
+    width: 33%;
+    height: 46%;
+}
+
+.div-2 a img {
+    width: 520px;
+    height: 350px;
+    margin-left: 60px;
+}
+
+.div-3{
+    margin-top: -900px;
+    width: 53%;
+    margin-left: 30px;  
+}
+
+.hdiv a {
+    color: #333;
+}
+
+.hdif1 {
+    margin-left: 1100px;
+    width: 300px;
+    font-size: 15px;
+}
+
+.hdif1 :hover {
+    color: blue;
+}
+
+.hdif1 a {
+    color:#333
+}
+
+.hdiv2 a {
+    color: rgb(120, 119, 119);
+
+}
+
+.hdiv2 {
+    margin-left: 1100px;
+    width: 300px;
+    font-size: 13px;
+    margin-top: -5px;
+}
+
+.hdiv2 {
+    border-bottom: 1px solid gray;
+    padding-bottom: 10px;
+}
+
+
+.hdiv3 {
+    margin-left: 1100px;
+    width: 300px;
+}   
+
+.hdiv3 :hover  {
+    color: blue;
+}
+
+.hdiv3 a  {
+    color: #333;
+}
+
+.hdiv22 a {
+    color: rgb(128, 127, 127);
+}
+
+.hdiv22 {
+    margin-left: 1100px;
+    width: 300px;
+    font-size: 13px;
+    margin-top: -5px;
+}
+
+.hdiv22 {
+    border-bottom: 1px solid gray;
+    padding-bottom: 10px;
+}
+
+
+.hdiv4 {
+    margin-left: 1100px;
+    width: 300px;
+}
+
+.hdiv4 a {
+    color: #333;
+}
+
+.hdiv4 :hover {
+    color: blue;
+}
+
+.hdiv44 {
+    margin-left: 1100px;
+    width: 300px;
+}
+
+.hdiv44 a {
+    color: rgb(128, 127, 127);
+    font-size: 13px;
+    margin-top: -5px;
+}
+
+.hdiv44 {
+    border-bottom: 1px solid gray;
+    padding-bottom: 10px;
+}
+
+.section :hover  {
+    cursor: pointer;
+}
+
+/* Ikonka qismi  */
+
+.ikonka2 i {
+    color: blue;
+}
+
+.ikonka2 {
+    margin-left: 100px;
+    margin-top: -70px;
+    width: 620px;
+    display: inline-block;
+}
+
+.ikonka-p i {
+    padding: 15px;
+}
+
+.ikonka-p {
+    font-size: 14px;
+    color: gray;
+}
+
+.h1-ikonka {
+    margin-top: -10px;  
+    font-size: 25px;
+}
+
+.h1-ikonka a {
+    color: #333;
+}
+
+.ikonka2 img {
+    margin-left: 420px;
+    margin-top: -130px;
+}
+
+.ikonka-h1 {
+    margin-left: 670px;
+    margin-top: -120px;
+}           
+
+.ikonka-1div {
+    border-bottom: solid 1px gray;
+    padding-bottom: 10px;
+    height: 150px;
+}
+
+.ikonka-1div i {
+    color: blue;
+}
+
+.ikonka-2div img {
+    margin-top: 5;
+}
+
+.ikonka-1div h1 {
+    width: 300px;
+}
+
+.ikonka-1div h1 :hover {
+    color: blue;
+}
+
+.ikonka-1div :hover  {
+    color: blue;
+}
+
+/* border  */
+
+
+.div-25  {
+    width: 350px;
+    height: 310px;
+    margin-left: 670px;
+    margin-top: -1100px;
+}
+
+.div-25 h1 {
+    color: #333;
+}
+
+.div-25 a h1 {
+    color: #333;
+    margin-left: 30px;
+    font-size: 18px;
+    width: 270px;
+}
+
+.div-25 i {
+    color: blue;
+    padding: 5px;
+}
+
+
+
+.div-22 a  p {
+    color: #333;
+    margin-left: 30px;
+    font-size: 19px;
+    width: 260px;
+    margin-top: -5px;
+}
+
+.div-22  {
+    margin-top: 20px;
+    color: #333;
+    margin-left: 30px;
+    font-size: 17px;
+    width: 300px;
+    height: 300px;
+    background-color: #e2f1f6;
+}
+
+.div-22 a {
+    color: #333;
+}
+
+/* dwdwdw */
+
+.div-222 a  p {
+    color: #333;
+    margin-left: 30px;
+    font-size: 19px;
+    width: 260px;
+    margin-top: -5px;
+}
+
+.div-222  {
+    margin-top: 20px;
+    color: #333;
+    margin-left: 30px;
+    font-size: 17px;
+    width: 300px;
+    height: 300px;
+    background-color: #e2f6eb;
+}
+
+/*  dwd*/
+
+.div-2222 a  p {
+    color: #333;
+    margin-left: 30px;
+    font-size: 19px;
+    width: 260px;
+    margin-top: -5px;
+}
+
+.div-2222  {
+    margin-top: 20px;
+    color: #333;
+    margin-left: 30px;
+    font-size: 17px;
+    width: 300px;
+    height: 300px;
+    background-color: #f6eee2;
+}
+
+.div-222 a {
+    color: #333;
+}
+
+.div-2222 a {
+    color: #333;
+}
+
+.div-22 a {
+    color: #333;
+}
+
+.ikonka-p i {
+    color: gray;
+}
+
+.div-21 {
+    margin-top: 90px;
+}
+
+.div-222 i {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+
+.div-22 i {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+
+.div-2222 i {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.div-23 h1:hover {
+    color: blue;
+}
+
+.div-23  {
+    color: gray;
+    width: 300px;
+    margin-left: 330px;
+    margin-top: -930px;
+}
+
+.div-233 p {
+    border-bottom: solid 1px gray;
+    padding-bottom: 15px;
+}
+
+.div-23 h1  {
+    font-size: 15px;
+}
+
+
+.hover a {
+    color: #333;
+}
+
+.div-23 p {
+    font-size: 13px;
+}
+
+/* fa ikonka  */
+
+.fa-ikonka {
+    margin-left: 60px;
+}
+
+.fa-ikonka i {
+    margin-top: 80px;
+}
+
+.fa-ikonka  h4 {
+    padding: 5px;
+    font-size: 18px;
+    color: #333;
+    margin-top: -30px;
+    margin-left: 80px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+/* section 3 */
+
+.section-3 {
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 90px;
+    height: 200px;
+    width: 600px;
+}
+
+.section-3 img  {
+    padding-top: 10px;
+    height: 354px;
+    width: 630px;
+}
+
+.section-3 p {
+    font-size: 14px;
+    font-family: sans-serif;
+    color: gray;
+}
+
+.section-3 a {
+    font-size: 32px;
+    font-weight: 700;
+    color: var(--black);
+    cursor: pointer;
+}
+
+#ahrefh1 {
+    font-size: 30px;
+}
+
+
+#ahref :hover {
+    color: blue;
+}
+
+/*  */
+
+.section-31a {
+    font-size: 32px;
+    width: 640px;
+}
+
+#plo {
+    font-size: 20px;
+}
+
+.section-31 img {
+    width: 350px;
+    height: 200px;
+    margin-top: 108px;
+    margin-left: 760px;
+}
+
+/*  */
+
+.section-41 {
+    font-size: 14px;
+    font-family: serif  ;
+    width: 400px;
+    margin-left: 760px;
+}
+
+.section-41 p {
+    color: gray;
+    font-size: 13px;
+    font-family: sans-serif;
+}
+
+.section-41 a {
+    color: #333;
+}
+
+.section-41 a :hover  {
+    color: blue;
+}
+
+.section-42 {
+    font-size: 14px;
+    font-family: serif  ;
+    width: 400px;
+    margin-left: 760px;
+}
+
+.section-42  {
+    border-bottom: solid 1px gray;
+    width: 350px;
+}
+
+.section-42 p {
+    color: gray;
+    font-size: 13px;
+    font-family: sans-serif;
+}
+
+.section-42 a {
+    color: #333;
+}
+
+.section-42 a :hover  {
+    color: blue;
+    }
+
+/*  */
+
+.section-311  img {
+    width: 320px;
+    height: 200px;
+    margin-top: 108px;
+    margin-left: 760px;
+}
+
+.section-311 {
+    margin-top: -667px;
+    margin-left: 370px;
+}
+
+.section-311div {
+    font-size: 13px;
+    width: 300px;
+}
+
+
+
+.section-3111  img {
+    width: 320px;
+    height: 200px;
+    margin-top: 108px;
+    margin-left: 390px;
+}
+
+.section-3111 {
+    margin-top: -104px;
+    margin-left: 370px;
+}
+
+.section-311div {
+    font-size: 13px;
+    width: 300px;
+}
+
+.section-3111 {
+    width: 500px;
+    font-size: 13px;
+}
+
+.section-3111 p {
+    color: gray;
+    font-size: 15px;
+    font-family: serif;   
+}
+
+.yozuv {
+    width: 300px;
+    margin-top: 10px;
+    margin-left: 400px;
+}
+
+/*  */
+
+.main-life__wrapper a {
+    color: #333;
+    font-size: 40px;
+}
+
+
+.main-life__wrapper {
+    margin-left: 70px;
+}
+
+.main-life__wrapper h1 {
+    margin-top: 50px;
+}
+
+.maini-life a {
+    color: #333;
+    font-size: 25px;
+}
+
+.maini-life {
+    margin-left: 1200px;
+    margin-top: -30px;
+}
+
+/*  */
+
+.box {
+    background-color: gray;
+    width: 300px;
+    height: 400px;
+    font-size: 15px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin-left: 100px;
+}
+
+.main-articles__item-img img {
+   width: 300px;
+   box-sizing: border-box;
+}
+
+.main-articles__item  {
+    border-radius: 10px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+/*  */
+
+
+.box {
+    display: inline-block;
+    background-color: rgb(183, 179, 179);
+    width: 300px;
+    height: 400px;
+    font-size: 15px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-left: 65px;
+    margin-top: 50px
+}
+
+
+.box h1 {
+    width: 250px;
+    margin-left: 25px;
+}
+
+.box:hover {
+    cursor: pointer;
+}
+
+.box h1:hover {
+    cursor: pointer;
+    color: blue
+}
+
+.box p {
+    color: gray;
+    margin-left: 20px;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.main-articles__item-img img {
+   width: 300px;
+   box-sizing: border-box;
+}
+
+.fa-ikonka {
+    margin-top: -30px;
+    color: blue;
+}
+
+/* section */
+
+.tanka {
+    width: 1000px;
+    height: 100px;
+}
+
+.tanka h1{
+    margin-left: 200px;
+    margin-top: -100px;
+    font-size: 35px;
+}
+
+.tanka p {
+    margin-left: 200px;
+    margin-top: -10px;
+}
+
+.tanka img{
+    margin-top: 50px;
+    margin-left: 70px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.fa-ikonka a {
+    color: #333;
+}
+
+/*  */
+
+.teg-rasim  {
+    margin-left: 70px;
+    margin-top: 70px;
+}
+
+.olchov-teg {
+    width: 500px;
+    margin-left: 230px;
+    margin-top: -130px;
+}
+
+.vifeo i {
+    color: blue;
+    margin-left: 1200px;
+}
+
+.vifeo h4 {
+     padding: 5px;
+     font-size: 18px;
+     color: #333;
+     margin-top: -30px;
+     margin-left: 80px;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/*  */
+
+.fa a {
+    color: #333;
+}
+
+.fa h4 {
+    padding: 5px;
+     font-size: 18px;
+     color: #333;
+     margin-top: -30px;
+     margin-left: 80px;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.fa i {
+    color: blue;
+    margin-left: 1200px;
+}
+
+/*  */
+
+.rasim-teg {
+    width: 400px;
+    margin-left: 220px;
+    margin-top: -130px;
+}
+
+.rasim-teg p {
+    color: gray;
+    font-size: 15px;
+}
+
+.teg-rasim {
+    width: 620px;
+    padding-bottom: 20px    ;
+}
+
+.teg-rasim {
+    border-bottom: solid 1px gray;
+}
+
+.teg-rasim2 {
+    margin-left: 800px;
+    margin-top: -320px;
+}
+
+
+.teg-rasim2 {
+    width: 620px;
+    padding-bottom: 20px    ;
+}
+
+.teg-rasim2 {
+    border-bottom: solid 1px gray;
+}
+
+/*  */
+
+.teg-rasim3 {
+    margin-left: 800px;
+    margin-top: 65px;
+}
+
+
+.teg-rasim3 {
+    width: 620px;
+    padding-bottom: 20px    ;
+}
+
+.teg-rasim3 {
+    border-bottom: solid 1px gray;
+}
+
+.orta-qisim h1 {
+    font-size: 22px;
+}
+
+.orta-qisim h1:hover {
+    cursor: pointer;
+    color: blue;
+}
+
+/*  */
+
+.inter h1:hover {
+    cursor: pointer;
+}
+
+.inter h1  {
+    margin-top: 50px;
+    margin-left: 100px;
+    font-size: 30px;
+}
+
+.interi {
+    margin-left: 1200px;
+    margin-top: -60px;
+}
+
+.inter i {
+    margin-left: 50px;
+}
+
+.box2 {
+    margin-top: 30px;
+    background-color: #333;
+    height: 500px;
+}
+
+/*  */
+
+.img1 {
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.kun-h1 {
+    width: 550px;
+    margin-left: 180px;
+    margin-top: -110px;
+    font-size: 18px;
+}
+
+.kun-h1 p {
+    margin-top: -15px;
+}
+
+.interii {
+    margin-left: 1200px;
+    margin-top: -70px;
+}
+
+.interii i {
+    color: blue;
+    margin-left: 50px;
+}
+
+/* sectionleta */
+
+.intero {
+    box-sizing: border-box;
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 300px;
+    height: 340px;
+    margin-right: 18px;
+    background-color: #26304d;
+}
+
+.intero-div1 img {
+    width: 300px;
+    height: 180px;
+}
+
+.intero-div2{
+    color: #fff;
+    padding: 15px;
+    font-size: 18px;
+}
+
+.intero-div2 p:hover {
+    color: blue;
+    cursor: pointer;
+}
+
+/* sectionleta */
+
+.moto {
+    font-size: 25px;
+    width: 100px;
+    padding: 10px 50px;
+}
+
+.foto {
+    font-size: 25px;
+    width: 100px;
+    margin-left: 1200px;
+    margin-top: -110px;
+}
+
+/*  */
+
+.moto-foto {
+    width: 700px;
+}
+
+.secti-div {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.secti-div {
+    margin-left: 50px;
+    width: 990px;
+    height: 570px;   
+    background-color: #b1acac;
+    border-left: solid 7px blue;
+}
+
+.div-secti1 img {
+    padding: 25px 25px;
+}
+
+.ikto {
+    margin-left: 25px;
+    margin-top: -15px;
+}
+
+.ikto p {
+    margin-left: 20px;
+    margin-top: -13px;
+    font-size: 12px;
+    font-family: sans-serif;
+    color: gray;
+}
+
+.ikto i {
+    color: #26304d;
+}
+
+.ikto-h1  {
+    width: 310px;
+    margin-left: 30px
+}
+
+.ikto-h1 {
+    font-size: 13px;
+    margin-top: -10px;
+}
+
+.ikto-h1 h1  {
+    color: black;
+}
+
+.ikto-h1 h1:hover {
+    color: blue;
+}
+
+.ikto-h1 p {
+    font-size: 18px;
+    color: rgb(82, 78, 78);
+}
+
+/*  */
+.kares img {
+    min-height: 133px;
+    max-height: 133px;
+    max-width: 200px;
+    object-fit: cover;
+}
+
+.kares {
+    margin-left: 345px;
+    margin-top: -487px;
+    width: 610px;
+    height: 160px;
+    border-bottom: solid gray 1px;
+}
+
+.ikto1 {
+    margin-left: 570px;
+    margin-top: -160px;
+    width: 20px;
+    height: 20px;
+}
+
+.ikto1 p {
+    margin-left: 20px;
+    margin-top: -13px;
+    font-size: 12px;
+    font-family: sans-serif;
+    color: gray;
+}
+
+.ikto1 i {
+    color: #26304d;
+}
+
+.ikto2 {
+    margin-left: 570px;
+    width: 400px;
+    color: #333;
+}
+
+.ikto2 {
+    font-size: 12px;
+}
+
+.ikto2 h1:hover {
+    color: blue;
+    cursor: pointer;
+}
+/*  */
+
+.kares2 {
+    margin-left: 345px;
+    margin-top: 80px;
+    width: 610px;
+    height: 160px;
+    border-bottom: solid gray 1px;
+}
+
+.kares2 img {
+    min-height: 133px;
+    max-height: 133px;
+    max-width: 200px;
+    object-fit: cover;   
+}
+
+/*  */
+
+.kares3 {
+    margin-left: 400px;
+    margin-top: -180px;
+    width: 610px;
+    height: 150px;
+    border-bottom: solid gray 1px;
+}
+
+.kares3 img {
+    min-height: 133px;
+    max-height: 133px;
+    max-width: 200px;
+    object-fit: cover;   
+}
+
+.iktolar {
+    width: 300px;
+    margin-left: 50px;
+}
+
+/*  */
+
+.fotoyangilik {
+    background-color: #a9aaab;
+    height: 570px;
+    width: 400px;
+    margin-left: 1040px;
+    margin-top: -514px;
+}
+
+.afgan img {
+    width: 400px;
+    height: 250px;
+}
+
+.afhgan-h1 {
+    width: 300px;
+}
+
+.afhgan-h1 h1 {
+    font-size: 32px;
+    margin-left: 30px;
+    margin-top: -5px;
+}
+
+.afhgan-h1 h1:hover {
+    color: blue;
+    cursor: pointer;
+}
+
+.afhgan-h1 p {
+    font-size: 13px;
+    color: rgb(69, 68, 68);
+    margin-left: 30px;
+}
+
+.afgan-ikon  {
+    width: 390px;
+    height: 400px;
+}
+
+.afgan-ikon h1 {
+    font-size: 50px;
+    margin-left: 130px;
+    margin-top: -20px;
+}
+
+.afgan-ikon p {
+    margin-top: -50px;
+    margin-left: 20px;
+    font-size: 15px;
+    color: rgb(77, 73, 73);
+}
+
+.af-ikon {
+    margin-left: 300px;
+    margin-top: -30px;
+}
+
+.af-ikon i {
+    color: #26304d;
+}
+
+.af-ikon i:hover {
+    cursor: pointer;
+    color: blue;
+}   
+
+/* foooter */
+
+.foooter-img {
+    margin-left: 55px;
+    margin-top: 50px;
+}
+
+.meno {
+    width: 100%;
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    height: 35px;
+    margin-left: 200px;
+    margin-top: -1px;
+}
+
+.meno a {
+    color: #333;
+    font-size: 18px;
+    font-family: serif;
+}
+
+/*  */
+
+.footer-top__social-item {
+    display: inline-block;
+    height: 32px;    
+}
+.footer-top__social-item path{
+    margin-left: 100px;
+}
+
+.ikonke a:hover  {
+    color: blue;
+}
+
+.ikonko {
+    height: 50px;
+    width: 250px;
+    margin-left: 850px;
+    margin-top: -80px;
+}
+
+.ikonko i {
+    padding-left: 15px;
+}
+
+.ikonko i:hover {
+    color: blue;
+}
+
+/*  */
+
+.play-market {
+    width: 300px;
+    margin-top: -60px;
+    margin-left: 1100px;
+}
+
+.play-market svg:hover {
+    color: blue;
+}
+
+
+/*  */
+
+.ponko {
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 1100px;
+    font-size: 15px;
+}
+.tonko {
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 1350px;
+    border-top: solid 1px gray;
+}
